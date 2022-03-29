@@ -1,0 +1,66 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Irvine Regional Park Deer Den Picnic Area", "TEL": "(212) 352-3101", "URL": "http:\/\/www.theatermania.com\/new-york\/theaters\/45th-street-theatre_2278\/", "ADDRESS1": "354 West 45th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.74949073791504, 33.794912316673624 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Santiago Oaks Regional Park Event Space", "TEL": "(800) 775-1617", "URL": "http:\/\/www.bestofoffbroadway.com\/theaters\/47streettheatre.html", "ADDRESS1": "304 West 47th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.77491807937622, 33.82170969489718 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Oak Canyon Nature Center Event Space", "TEL": "(212) 753-5959", "URL": "http:\/\/www.59e59.org\/", "ADDRESS1": "59 East 59th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -117.75592803955077, 33.83687867356177 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Bommer Canyon Cattle Camp", "TEL": "(212) 279-4200", "URL": "http:\/\/www.theatrerow.org\/theacorn.htm", "ADDRESS1": "410 West 42nd Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.80588150024413, 33.62839559137965 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Carbon Canyon Regional Park Picnic Areas", "TEL": "(212) 239-6200", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/alhirschfeldtheater\/theater.php", "ADDRESS1": "302 W 45th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.83523559570312, 33.91469540105239 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "Turtle Rock Picnic Tables", "TEL": "(800) 432-7565", "URL": "http:\/\/www.shubertorganization.com\/theatres\/ambassador.asp", "ADDRESS1": "219 West 49th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -117.80646085739136, 33.63295147014973 ] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "Laguna Niguel Regional Park Picnic Shelter 12", "TEL": "(212) 719-9393", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/americanairlinestheater\/theater.php", "ADDRESS1": "227 W 42nd Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.70416140556337, 33.540922959064545 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "Niguel Botanical Gardens", "TEL": "(212) 531-5300", "URL": "http:\/\/www.apollotheater.org\/", "ADDRESS1": "253 West 125th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10027.0 }, "geometry": { "type": "Point", "coordinates": [ -117.7103465795517, 33.5314122014211057 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "Orange County Great Park", "TEL": "(212) 595-0355", "URL": "http:\/\/www.nytheatre.com\/nytheatre\/arclight.htm", "ADDRESS1": "152 W 71st St", "ADDRES2": null, "CITY": "New York", "ZIP": 10023.0 }, "geometry": { "type": "Point", "coordinates": [-117.74011373519897, 33.67226493911143 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NAME": "Huntington Central Park Trails & Picnic Tables", "TEL": "(212) 254-4370", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/astorplacetheater\/theater.php", "ADDRESS1": "434 Lafayette St", "ADDRES2": "Frnt", "CITY": "New York", "ZIP": 10003.0 }, "geometry": { "type": "Point", "coordinates": [ -118.00449371337889, 33.70302800988349 ] } }
+,
+{ "type": "Feature", "id": 10, "properties": { "NAME": "San Joaquin Marsh Picnic Area and Event Spaces", "TEL": "(212) 645-1242", "URL": "http:\/\/www.atlantictheater.org\/", "ADDRESS1": "336 W 20th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10011.0 }, "geometry": { "type": "Point", "coordinates": [ -117.84183382987976, 33.660683531902045 ] } }
+,
+{ "type": "Feature", "id": 11, "properties": { "NAME": "Oso Creek Park", "TEL": "(212) 239-6200", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/augustwilsontheater\/theater.php", "ADDRESS1": "245 W 52nd Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -117.65142917633058, 33.60182376607769 ] } }
+,
+{ "type": "Feature", "id": 12, "properties": { "NAME": "Katie Wheeler Park and Library", "TEL": "(212) 243-6262", "URL": "http:\/\/www.barrowstreettheatre.com\/index.asp", "ADDRESS1": "27 Barrow St", "ADDRES2": null, "CITY": "New York", "ZIP": 10014.0 }, "geometry": { "type": "Point", "coordinates": [ -117.78538942337036, 33.73074640211176 ] } }
+,
+{ "type": "Feature", "id": 13, "properties": { "NAME": "Canyon Park", "TEL": "(212) 465-6500", "URL": "http:\/\/www.beacontheatre.com\/", "ADDRESS1": "2124 Broadway", "ADDRES2": null, "CITY": "New York", "ZIP": 10023.0 }, "geometry": { "type": "Point", "coordinates": [ -117.94064640998842, 33.647341104297574 ] } }
+,
+{ "type": "Feature", "id": 14, "properties": { "NAME": "Serrano Creek Park/Heritage Hill Historic Sites", "TEL": "(212) 944-3700", "URL": "http:\/\/www.shubertorganization.com\/theatres\/belasco.asp", "ADDRESS1": "111 W 44th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.69146919250487, 33.64763583889387 ] } }
+,
+{ "type": "Feature", "id": 15, "properties": { "NAME": "Nature Park", "TEL": "(212) 944-3700", "URL": "http:\/\/www.shubertorganization.com\/theatres\/bernard_b_jacobs.asp", "ADDRESS1": "242 W 45th Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [  -117.67273664474486,33.663282117458465 ] } }
+,
+{ "type": "Feature", "id": 16, "properties": { "NAME": "Puddingston Park and Water Activities", "TEL": "(212) 260-8250", "URL": "http:\/\/www.45bleecker.com\/", "ADDRESS1": "45 Bleecker Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -117.8004741668701, 34.082379327808304 ] } }
+,
+{ "type": "Feature", "id": 17, "properties": { "NAME": "Griffith Park Trails and Picnic Areas", "TEL": "(212) 944-3700", "URL": "http:\/\/www.shubertorganization.com\/theatres\/booth.asp", "ADDRESS1": "222 W 45th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -118.29631805419922, 34.121752800698125 ] } }
+,
+{ "type": "Feature", "id": 18, "properties": { "NAME": "Upper Franklin Canyon Pond Park", "TEL": "(212) 944-3700", "URL": "http:\/\/www.shubertorganization.com\/theatres\/broadhurst.asp", "ADDRESS1": "235 W 44th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -118.41184616088867, 34.12217912790942 ] } }
+,
+{ "type": "Feature", "id": 19, "properties": { "NAME": "Hart Park", "TEL": "(212) 944-3700", "URL": "http:\/\/www.shubertorganization.com\/theatres\/broadway.asp", "ADDRESS1": "1681 Broadway", "ADDRES2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -117.8504705429077, 33.77675736299181 ] } }
+,
+{ "type": "Feature", "id": 20, "properties": { "NAME": "Ralph B. Clark Regional Park", "TEL": "(212) 719-4099", "URL": "http:\/\/www.brooksatkinsontheater.com\/", "ADDRESS1": "256 W 47th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.97870159149169, 33.89360923259875 ] } }
+,
+{ "type": "Feature", "id": 21, "properties": { "NAME": "Hillcrest Park", "TEL": "(212) 941-9400", "URL": "http:\/\/www.castillo.org\/", "ADDRESS1": "543 West 42nd Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.92201042175293, 33.883527346890205 ] } }
+,
+{ "type": "Feature", "id": 22, "properties": { "NAME": "Fullerton Arboretum", "TEL": "(212) 239-6200", "URL": "http:\/\/www.theatermania.com\/new-york\/theaters\/century-center-for-the-performing-arts_59\/", "ADDRESS1": "111 E 15th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10003.0 }, "geometry": { "type": "Point", "coordinates": [ -117.8834080696106, 33.886715916608395 ] } }
+,
+{ "type": "Feature", "id": 23, "properties": { "NAME": "El Dorado Nature Center", "TEL": "(212) 989-2020¿", "URL": "http:\/\/cherrylanetheatre.org\/", "ADDRESS1": "38 Commerce Street", "ADDRES2": null, "CITY": "New York", "ZIP": 10014.0 }, "geometry": { "type": "Point", "coordinates": [ -118.08671951293944, 33.823082321922676 ] } }
+,
+{ "type": "Feature", "id": 24, "properties": { "NAME": "Mile Square Regional Park", "TEL": "(212) 307-0388", "URL": "http:\/\/www.circlesquare.org\/", "ADDRESS1": "1633 Broadway", "ADDRES2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -117.94715881347655, 33.72376856418221 ] } }
+,
+{ "type": "Feature", "id": 25, "properties": { "NAME": "Centennial Park", "TEL": "(212) 982-2287", "URL": "http:\/\/www.connellycenter.org\/theatre.htm", "ADDRESS1": "220 E 4th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10009.0 }, "geometry": { "type": "Point", "coordinates": [ -117.91050910949708, 33.72626708797698 ] } }
+,
+{ "type": "Feature", "id": 26, "properties": { "NAME": "Craig Regional Park", "TEL": "(212) 944-3700", "URL": "http:\/\/www.shubertorganization.com\/theatres\/cort.asp", "ADDRESS1": "138 W 48th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.8854465484619, 33.901837733006374 ] } }
+,
+{ "type": "Feature", "id": 27, "properties": { "NAME": "Laguna Niguel Picnic Shelter 10", "TEL": "(212) 375-1110", "URL": "http:\/\/www.darylroththeatre.com\/", "ADDRESS1": "101 E 15th St", "ADDRES2": null, "CITY": "New York", "ZIP": 10003.0 }, "geometry": { "type": "Point", "coordinates": [ -117.70832419395447, 33.548655547049805 ] } }
+,
+{ "type": "Feature", "id": 28, "properties": { "NAME": "Cedar Grove Park", "TEL": "(646) 223-3010", "URL": "http:\/\/www.new42.org\/duke\/duke_home.aspx", "ADDRESS1": "229 W. 42nd St", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -117.76958048343657, 33.75126170600079 ] } }
+,
+{ "type": "Feature", "id": 29, "properties": { "NAME": "George Key Ranch", "TEL": "(212) 975-4321", "URL": "http:\/\/www.newyorkcitytheatre.com\/theaters\/edsullivantheater\/theater.php", "ADDRESS1": "1697 Broadway", "ADDRES2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -117.87492692470549, 33.89700892845679 ] } }
+
+]
+}
