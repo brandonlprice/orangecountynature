@@ -61,9 +61,8 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10022,
-        "photo4": "",
-        "photo1": "https://brandonlprice.github.io/orangecountynature/ocnature/gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1101.JPG",
-        "photo2": "https://brandonlprice.github.io/orangecountynature/ocnature/gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1110.JPG",
+        "photo1": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1101.JPG",
+        "photo2": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1110.JPG",
         "photo3": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1106.JPG"
       },
       "geometry": {
@@ -156,8 +155,8 @@
         "ZIP": 10036,
         "photo1": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_123226_HDR.jpg",
         "photo2": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_123048_HDR.jpg",
-        "photo3": "http://localhost/ocnature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/BD41077C-5442-4FD2-9A76-7A8361B25BA7.jpeg",
-        "photo4": "http://localhost/ocnature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_124215.jpg",
+        "photo3": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/BD41077C-5442-4FD2-9A76-7A8361B25BA7.jpeg",
+        "photo4": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_124215.jpg",
         "photo5": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_130336_HDR.jpg",
         "photo6": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/1A52FE55-7EB7-4C30-956B-815FDD8E80B7.jpeg"
       },
@@ -243,7 +242,7 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10011,
-        "photo1": "http://localhost/ocnature/gatheringspaces/assets/img/gatheringspaces/duckclub/20211205_141811_HDR.jpg",
+        "photo1": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/duckclub/20211205_141811_HDR.jpg",
         "photo2": "",
         "photo3": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/marsh/20211205_145819_HDR.jpg",
         "photo4": "https://brandonlprice.github.io/orangecountynature/gatheringspaces/assets/img/gatheringspaces/marsh/Message_1633115596949.jpg"
@@ -399,7 +398,7 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036,
-	"photos": ""
+	"photo1": ""
       },
       "geometry": {
         "type": "Point",
@@ -420,7 +419,7 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036
-	"photos1": ""
+	"photo1": ""
       },
       "geometry": {
         "type": "Point",
