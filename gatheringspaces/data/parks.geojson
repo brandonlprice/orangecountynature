@@ -12,10 +12,10 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/deerden/20211009_184137_HDR.jpg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/deerden/20211009_184204.jpg",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/deerden/20211009_185002_HDR.jpg",
-        "photo4": "gatheringspaces/assets/img/gatheringspaces/deerden/20211009_185029_HDR.jpg"
+        "photo1": "assets/img/gatheringspaces/deerden/20211009_184137_HDR.jpg",
+        "photo2": "assets/img/gatheringspaces/deerden/20211009_184204.jpg",
+        "photo3": "assets/img/gatheringspaces/deerden/20211009_185002_HDR.jpg",
+        "photo4": "assets/img/gatheringspaces/deerden/20211009_185029_HDR.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -36,11 +36,11 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/santiagooaks/20211008_134820_HDR.jpg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/santiagooaks/20211008_134901_HDR.jpg",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/santiagooaks/20211008_134926_HDR.jpg",
-        "photo4": "gatheringspaces/assets/img/gatheringspaces/santiagooaks/20211008_140549_HDR.jpg",
-        "photo5": "gatheringspaces/assets/img/gatheringspaces/santiagooaks/20211008_140719_HDR.jpg"
+        "photo1": "assets/img/gatheringspaces/santiagooaks/20211008_134820_HDR.jpg",
+        "photo2": "assets/img/gatheringspaces/santiagooaks/20211008_134901_HDR.jpg",
+        "photo3": "assets/img/gatheringspaces/santiagooaks/20211008_134926_HDR.jpg",
+        "photo4": "assets/img/gatheringspaces/santiagooaks/20211008_140549_HDR.jpg",
+        "photo5": "assets/img/gatheringspaces/santiagooaks/20211008_140719_HDR.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -62,9 +62,9 @@
         "CITY": "New York",
         "ZIP": 10022,
         "photo4": "",
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1101.JPG",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1110.JPG",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/oakcyn/IMG_1106.JPG"
+        "photo1": "assets/img/gatheringspaces/oakcyn/IMG_1101.JPG",
+        "photo2": "assets/img/gatheringspaces/oakcyn/IMG_1110.JPG",
+        "photo3": "assets/img/gatheringspaces/oakcyn/IMG_1106.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +85,7 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/bommercyn/IMG_1966.JPG"
+        "photo1": "assets/img/gatheringspaces/bommercyn/IMG_1966.JPG"
       },
       "geometry": {
         "type": "Point",
@@ -106,9 +106,9 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/carboncyn/CE0FDAAB-74D6-44F8-9667-90DD1A63A36A.jpeg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/carboncyn/BA0B77F2-5F31-48E7-A420-7458CF1C029E.jpeg",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/carboncyn/0A420C71-EB29-40BF-B071-C60A12CFBD66.jpeg"
+        "photo1": "assets/img/gatheringspaces/carboncyn/CE0FDAAB-74D6-44F8-9667-90DD1A63A36A.jpeg",
+        "photo2": "assets/img/gatheringspaces/carboncyn/BA0B77F2-5F31-48E7-A420-7458CF1C029E.jpeg",
+        "photo3": "assets/img/gatheringspaces/carboncyn/0A420C71-EB29-40BF-B071-C60A12CFBD66.jpeg"
       },
       "geometry": {
         "type": "Point",
@@ -129,11 +129,11 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10019,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/turtlerockpark/5B280593-1FF0-40A1-84FA-08426900F5A6.jpeg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/turtlerockpark/20211001_173231.jpg",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/turtlerockpark/20211001_173519.jpg",
-        "photo4": "gatheringspaces/assets/img/gatheringspaces/turtlerockpark/20211001_174632.jpg",
-        "photo5": "gatheringspaces/assets/img/gatheringspaces/turtlerockpark/20211001_174704.jpg"
+        "photo1": "assets/img/gatheringspaces/turtlerockpark/5B280593-1FF0-40A1-84FA-08426900F5A6.jpeg",
+        "photo2": "assets/img/gatheringspaces/turtlerockpark/20211001_173231.jpg",
+        "photo3": "assets/img/gatheringspaces/turtlerockpark/20211001_173519.jpg",
+        "photo4": "assets/img/gatheringspaces/turtlerockpark/20211001_174632.jpg",
+        "photo5": "assets/img/gatheringspaces/turtlerockpark/20211001_174704.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -154,12 +154,12 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_123226_HDR.jpg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_123048_HDR.jpg",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/BD41077C-5442-4FD2-9A76-7A8361B25BA7.jpeg",
-        "photo4": "gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_124215.jpg",
-        "photo5": "gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/20211105_130336_HDR.jpg",
-        "photo6": "gatheringspaces/assets/img/gatheringspaces/niguelregional_shelter12/1A52FE55-7EB7-4C30-956B-815FDD8E80B7.jpeg"
+        "photo1": "assets/img/gatheringspaces/niguelregional_shelter12/20211105_123226_HDR.jpg",
+        "photo2": "assets/img/gatheringspaces/niguelregional_shelter12/20211105_123048_HDR.jpg",
+        "photo3": "assets/img/gatheringspaces/niguelregional_shelter12/BD41077C-5442-4FD2-9A76-7A8361B25BA7.jpeg",
+        "photo4": "assets/img/gatheringspaces/niguelregional_shelter12/20211105_124215.jpg",
+        "photo5": "assets/img/gatheringspaces/niguelregional_shelter12/20211105_130336_HDR.jpg",
+        "photo6": "assets/img/gatheringspaces/niguelregional_shelter12/1A52FE55-7EB7-4C30-956B-815FDD8E80B7.jpeg"
       },
       "geometry": {
         "type": "Point",
@@ -241,10 +241,10 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10011,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/duckclub/20211205_141811_HDR.jpg",
+        "photo1": "assets/img/gatheringspaces/duckclub/20211205_141811_HDR.jpg",
         "photo2": "",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/marsh/20211205_145819_HDR.jpg",
-        "photo4": "gatheringspaces/assets/img/gatheringspaces/marsh/Message_1633115596949.jpg"
+        "photo3": "assets/img/gatheringspaces/marsh/20211205_145819_HDR.jpg",
+        "photo4": "assets/img/gatheringspaces/marsh/Message_1633115596949.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -305,10 +305,10 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10023,
-		"photo1": "gatheringspaces/assets/img/gatheringspaces/cynpark/20211231_163824_HDR.jpg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/cynpark/20211231_170853_HDR.jpg",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/cynpark/20211231_170853_HDR.jpg",
-        "photo4": "gatheringspaces/assets/img/gatheringspaces/cynpark/20211231_163521_HDR.jpg"
+		"photo1": "assets/img/gatheringspaces/cynpark/20211231_163824_HDR.jpg",
+        "photo2": "assets/img/gatheringspaces/cynpark/20211231_170853_HDR.jpg",
+        "photo3": "assets/img/gatheringspaces/cynpark/20211231_170853_HDR.jpg",
+        "photo4": "assets/img/gatheringspaces/cynpark/20211231_163521_HDR.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -329,8 +329,8 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10036,
-		"photo1": "gatheringspaces/assets/img/gatheringspaces/heritagehill/20211205_162435.jpg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/heritagehill/20211205_162514.jpg",
+		"photo1": "assets/img/gatheringspaces/heritagehill/20211205_162435.jpg",
+        "photo2": "assets/img/gatheringspaces/heritagehill/20211205_162514.jpg",
         "photo3": "",
         "photo4": ""
       },
@@ -433,10 +433,10 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10019,
-		"photo1": "gatheringspaces/assets/img/gatheringspaces/hartpark/2E411B1E-4348-4CC6-9D46-C91D430A3F1B.jpeg",
-		"photo2": "gatheringspaces/assets/img/gatheringspaces/hartpark/20D84ABC-9D50-4323-9E78-338C90A4B976.jpeg",
-		"photo3": "gatheringspaces/assets/img/gatheringspaces/hartpark/20D84ABC-9D50-4323-9E78-338C90A4B976.jpeg",
-		"photo4": "gatheringspaces/assets/img/gatheringspaces/hartpark/3B61A228-A619-4E71-8C3B-4A15CC985BE5.jpeg"
+		"photo1": "assets/img/gatheringspaces/hartpark/2E411B1E-4348-4CC6-9D46-C91D430A3F1B.jpeg",
+		"photo2": "assets/img/gatheringspaces/hartpark/20D84ABC-9D50-4323-9E78-338C90A4B976.jpeg",
+		"photo3": "assets/img/gatheringspaces/hartpark/20D84ABC-9D50-4323-9E78-338C90A4B976.jpeg",
+		"photo4": "assets/img/gatheringspaces/hartpark/3B61A228-A619-4E71-8C3B-4A15CC985BE5.jpeg"
       },
       "geometry": {
         "type": "Point",
@@ -637,15 +637,15 @@
         "ADDRES2": null,
         "CITY": "New York",
         "ZIP": 10019,
-        "photo1": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_140448_HDR.jpg",
-        "photo2": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_140456_HDR.jpg",
-        "photo3": "gatheringspaces/assets/img/gatheringspaces/georgekey/0211204_140613.jpg",
-        "photo4": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_140926_HDR.jpg",
-        "photo5": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_141223_HDR.jpg",
-        "photo6": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_141318.jpg",
-        "photo7": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_141550_HDR.jpg",
-        "photo8": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_141627_HDR.jpg",
-        "photo9": "gatheringspaces/assets/img/gatheringspaces/georgekey/20211204_141648_HDR.jpg"
+        "photo1": "assets/img/gatheringspaces/georgekey/20211204_140448_HDR.jpg",
+        "photo2": "assets/img/gatheringspaces/georgekey/20211204_140456_HDR.jpg",
+        "photo3": "assets/img/gatheringspaces/georgekey/0211204_140613.jpg",
+        "photo4": "assets/img/gatheringspaces/georgekey/20211204_140926_HDR.jpg",
+        "photo5": "assets/img/gatheringspaces/georgekey/20211204_141223_HDR.jpg",
+        "photo6": "assets/img/gatheringspaces/georgekey/20211204_141318.jpg",
+        "photo7": "assets/img/gatheringspaces/georgekey/20211204_141550_HDR.jpg",
+        "photo8": "assets/img/gatheringspaces/georgekey/20211204_141627_HDR.jpg",
+        "photo9": "assets/img/gatheringspaces/georgekey/20211204_141648_HDR.jpg"
       },
       "geometry": {
         "type": "Point",
